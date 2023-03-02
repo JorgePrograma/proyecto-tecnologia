@@ -1,0 +1,17 @@
+# React
+node_modules/
+build/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Others
+.cache/
+.DS_Store
+
+#laravel
+vendor/
+storage/
